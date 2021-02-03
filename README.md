@@ -1,1 +1,1 @@
--Master Build Status [![Build Status](https://travis-ci.com/Saaaaaaaaaaaam/sem.svg?branch=master)](https://travis-ci.com/Saaaaaaaaaaaam/sem)
+- Master Build Status [![Build Status](https://travis-ci.com/Saaaaaaaaaaaam/sem.svg?branch=master)](https://travis-ci.com/Saaaaaaaaaaaam/sem)
