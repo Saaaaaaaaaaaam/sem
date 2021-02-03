@@ -1,7 +1,3 @@
-install: true
-script:
-  - mvn install
-
 sudo: required
 language: java
 
