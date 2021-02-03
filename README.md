@@ -1,1 +1,1 @@
-Hello, I am a readme 
+-Master Build Status [![Build Status](https://travis-ci.com/Saaaaaaaaaaaam/sem.svg?branch=master)](https://travis-ci.com/Saaaaaaaaaaaam/sem)
