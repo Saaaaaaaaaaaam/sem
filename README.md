@@ -1,4 +1,4 @@
 - Master Build Status [![Build Status](https://travis-ci.com/Saaaaaaaaaaaam/sem.svg?branch=master)](https://travis-ci.com/Saaaaaaaaaaaam/sem)
 - Develop Build Status [![Build Status](https://travis-ci.org/Saaaaaaaaaaaam/sem.svg?branch=develop)](https://travis-ci.org/Saaaaaaaaaaaam/sem)
 - Licence [![LICENSE](https://img.shields.io/github/license/Saaaaaaaaaaaam/sem.svg?style=flat-square)](https://github.com/Saaaaaaaaaaaam/sem/master/LICENSE)
-- Release [![Releases](https://img.shields.io/github/release/<Saaaaaaaaaaaam>/sem/all.svg?style=flat-square)](https://github.com/<Saaaaaaaaaaaam>/sem/releases)
+- Release [![Releases](https://img.shields.io/github/release/Saaaaaaaaaaaam/sem/all.svg?style=flat-square)](https://github.com/Saaaaaaaaaaaam/sem/releases)
